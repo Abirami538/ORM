@@ -40,8 +40,6 @@ from .models import Bankloan,BankloanAdmin
 admin.site.register(Bankloan,BankloanAdmin)
 ```
 # OUTPUT
-
-![alt text](<../abi/ormapp/Screenshot 2025-03-26 001529.png>)
-
+![alt text](<../abi/abi/Screenshot 2025-03-26 001529.png>)
 # RESULT
 Thus the program for creating a database using ORM hass been executed successfully
