@@ -40,6 +40,7 @@ from .models import Bankloan,BankloanAdmin
 admin.site.register(Bankloan,BankloanAdmin)
 ```
 # OUTPUT
+
 ![alt text](<../abi/ormapp/Screenshot 2025-03-26 001529.png>)
 
 # RESULT
